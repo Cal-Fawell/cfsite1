@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AAAA,IACE","sourcesContent":["img {\n box-shadow: none !important;\n}\n"],"file":"custom.css"}
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AAAA,yCAIE","sourcesContent":["img,\n.card img,\nimg.img-fluid,\n.profile img {\n box-shadow: none !important;\n}\n"],"file":"custom.css"}
