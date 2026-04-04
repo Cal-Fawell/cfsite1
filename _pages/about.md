@@ -28,7 +28,7 @@ profile:
 ---
 
 
-I'm a sixth-year doctoral candidate in philosophy at [UNC Chapel Hill](https://philosophy.unc.edu/). Before that, I was an undergraduate at the [University of Chicago](https://philosophy.uchicago.edu/), where I studied philosophy (and minored in math). Fall of 2024, I was a visiting student at [MIT](https://philosophy.mit.edu/). Here's my [CV](https://philpeople.org/public_cache/file?content_type=application%2Fpdf&key=enh0x3y8w7e157044qii52idizak).
+I'm a sixth-year doctoral candidate in philosophy at [UNC Chapel Hill](https://philosophy.unc.edu/). Before that, I was an undergraduate at the [University of Chicago](https://philosophy.uchicago.edu/), where I studied philosophy (and minored in math). Fall of 2024, I was a visiting student at [MIT](https://philosophy.mit.edu/). Here's my [CV](https://philpeople.org/public_cache/file?content_type=application%2Fpdf&key=enh0x3y8w7e157044qii52idizak). TEST.
 
 I work in epistemology and the philosophy of language. I'm writing a dissertation advised by James Pryor (chair), Ram Neta, Alex Worsnip, and Roger White (external, MIT).
 
